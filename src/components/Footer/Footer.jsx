@@ -53,16 +53,16 @@ function Footer() {
           <div className="flex flex-col gap-5">
             <h4 className="text-3xl font-bold">Connect with us</h4>
             <div className=" flex gap-5">
-              <Social img="/public/twitter.png" />
-              <Social img="/public/insta.png" />
-              <Social img="/public/youtube.png" />
-              <Social img="/public/linkedin.png" />
+              <Social img="/twitter.png" />
+              <Social img="/insta.png" />
+              <Social img="/youtube.png" />
+              <Social img="/linkedin.png" />
             </div>
 
             <h4 className="text-3xl font-bold">Download MyJio</h4>
             <div className="flex gap-3">
-              <img src="/public/G-Play.svg" alt="" />
-              <img src="/public/AppStore.svg" alt="" />
+              <img src="/G-Play.svg" alt="" />
+              <img src="/AppStore.svg" alt="" />
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@ function Footer() {
       <hr />
       <div className="flex px-50 p-5 justify-between items-center">
         <div className="flex items-center gap-2 text-gray-400 ">
-          <img className="h-10" src="/public/Jio_logo.png" alt="" />
+          <img className="h-10" src="/Jio_logo.png" alt="" />
           <p>
             Copyright © 2023 Reliance Jio Infocomm Ltd. All rights reserved.
           </p>
