@@ -1,0 +1,12 @@
+.hero {
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10rem;
+    background-image: url(./AirFiber-DetailPage-Banner-Desktop.jpg) ;
+    background-size:     cover;                     
+    background-repeat:   no-repeat;
+    background-position: center center;
+}
+
